@@ -3,7 +3,7 @@
 This repository contains jupyter notebooks for developing self-supervised learning models for spectrum data processing.
 
 # # Setup
-The notebooks and python files should be in a same folder. Model constants and paths which in separate file **SSLConstants.py** should be adapted to the user working environment (models saving paths, loading paths, ect.)
+The notebooks and python files should be in a same folder. Model constants and paths which are in separate file **SSLConstants.py** should be adapted to the user working environment (models saving paths, loading paths, ect.)
 
 # # Eperimenting
 Dataset for training models and example model with corresonding statistics file are provided in the **shared/self-supervised-learning** folder on the [server](https://hub.over10k.ijs.si).
