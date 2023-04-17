@@ -1,0 +1,21 @@
+# CONSTANTS
+LIMIT_IMAGES = 40000 #500_000
+NUM_WORKERS = 24
+IMG_SIZE = 128
+IMG_STRIDE = 128 # 64
+# convnet
+BATCH_SIZE = 128
+MAX_EPOCHS = 500
+CMAP = 'gray'
+PCA_DIM = 20
+KMEANS_CLUSTERS = 24
+NUM_CLASSES = 24
+DATASET_PATH = '../dataset2/ws_traffic_2017xxxx.h5'
+RESULTS_PATH = "../results/output/"
+
+SAVED_MODEL_PATH = '../results/models/RN18/15eKmeans/15e_kmeans_c24pca20e100RN18_00_25_40_23_03_2023.pt'
+SAVED_STAT_PATH = '../results/stats/RN18/15eKmeans/15e_kmeans_c24pca20e100RN18_00_25_40_23_03_2023_stats.json'
+LOAD_SAVED_MODEL = True
+
+LOADED_EPOCH = 0
+USE_VGG = False
