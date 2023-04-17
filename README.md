@@ -10,3 +10,8 @@ Python notebook for model analysis, evaluation and visualization is provided as 
 All the necessary functions for both notebooks are contained in the **SSLUtils.py** file. In the current state, when working all the files should be in a same folder.
 
 The project is in active development, so optimizations are lacking and feedback is welcomed.
+
+## Related references
+[Paper 1](https://arxiv.org/abs/2210.02899)
+[Paper 2](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977513)
+[Testbed](https://log-a-tec.eu/datasets.html)
